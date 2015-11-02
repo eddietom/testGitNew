@@ -1,1 +1,3 @@
 Bug Fix 2
+
+Bug fix 3 without branching
