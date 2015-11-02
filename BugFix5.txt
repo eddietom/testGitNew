@@ -3,3 +3,5 @@ BugFix5: with branch
 BugFix5: with branch second change
 
 BugFix6: with branch
+
+BugFix7: with branch
